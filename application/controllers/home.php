@@ -13,4 +13,12 @@ class Home extends Controller {
         
     }
 
+    public function ContactUs() {
+        
+    }
+
+    public function AboutUs() {
+        
+    }
+
 }
