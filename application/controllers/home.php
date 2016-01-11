@@ -13,11 +13,11 @@ class Home extends Controller {
         
     }
 
-    public function ContactUs() {
+    public function contact() {
         
     }
 
-    public function AboutUs() {
+    public function memberships() {
         
     }
 
