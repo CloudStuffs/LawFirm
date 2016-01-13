@@ -7,16 +7,6 @@ $routes = array(
         "pattern" => "home",
         "controller" => "home",
         "action" => "index"
-    ),
-    array(
-        "pattern" => "memberships",
-        "controller" => "home",
-        "action" => "memberships"
-    ),
-    array(
-        "pattern" => "contact",
-        "controller" => "home",
-        "action" => "contact"
     )
 );
 
