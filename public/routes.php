@@ -27,6 +27,11 @@ $routes = array(
         "pattern" => "contact",
         "controller" => "home",
         "action" => "contact"
+    ),
+    array(
+        "pattern" => "denied",
+        "controller" => "home",
+        "action" => "denied"
     )
 );
 
